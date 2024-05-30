@@ -1106,6 +1106,7 @@
           "Microsoft.AspNetCore.Authentication.JwtBearer": "7.0.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "7.0.0",
           "Microsoft.EntityFrameworkCore": "7.0.0",
+          "Microsoft.Extensions.Caching.Memory": "7.0.0",
           "Microsoft.IdentityModel.Tokens": "7.5.1",
           "Moq": "4.20.70",
           "Npgsql.EntityFrameworkCore.PostgreSQL": "7.0.0",
@@ -2795,11 +2796,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/besaalija/Desktop/SOA/TaskManagement/TaskManagement.Tests/TaskManagement.Tests.csproj",
+      "projectUniqueName": "/Users/besaalija/Desktop/SOA/repo/myapp/taskManagement/TaskManagement.Tests/TaskManagement.Tests.csproj",
       "projectName": "TaskManagement.Tests",
-      "projectPath": "/Users/besaalija/Desktop/SOA/TaskManagement/TaskManagement.Tests/TaskManagement.Tests.csproj",
+      "projectPath": "/Users/besaalija/Desktop/SOA/repo/myapp/taskManagement/TaskManagement.Tests/TaskManagement.Tests.csproj",
       "packagesPath": "/Users/besaalija/.nuget/packages/",
-      "outputPath": "/Users/besaalija/Desktop/SOA/TaskManagement/TaskManagement.Tests/obj/",
+      "outputPath": "/Users/besaalija/Desktop/SOA/repo/myapp/taskManagement/TaskManagement.Tests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/besaalija/.nuget/NuGet/NuGet.Config"
@@ -2815,8 +2816,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/besaalija/Desktop/SOA/TaskManagement/TaskManagement/TaskManagement.csproj": {
-              "projectPath": "/Users/besaalija/Desktop/SOA/TaskManagement/TaskManagement/TaskManagement.csproj"
+            "/Users/besaalija/Desktop/SOA/repo/myapp/taskManagement/TaskManagement/TaskManagement.csproj": {
+              "projectPath": "/Users/besaalija/Desktop/SOA/repo/myapp/taskManagement/TaskManagement/TaskManagement.csproj"
             }
           }
         }

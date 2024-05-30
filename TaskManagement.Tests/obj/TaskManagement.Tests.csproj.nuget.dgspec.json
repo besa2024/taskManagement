@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/besaalija/Desktop/SOA/TaskManagement/TaskManagement.Tests/TaskManagement.Tests.csproj": {}
+    "/Users/besaalija/Desktop/SOA/repo/myapp/taskManagement/TaskManagement.Tests/TaskManagement.Tests.csproj": {}
   },
   "projects": {
-    "/Users/besaalija/Desktop/SOA/TaskManagement/TaskManagement.Tests/TaskManagement.Tests.csproj": {
+    "/Users/besaalija/Desktop/SOA/repo/myapp/taskManagement/TaskManagement.Tests/TaskManagement.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/besaalija/Desktop/SOA/TaskManagement/TaskManagement.Tests/TaskManagement.Tests.csproj",
+        "projectUniqueName": "/Users/besaalija/Desktop/SOA/repo/myapp/taskManagement/TaskManagement.Tests/TaskManagement.Tests.csproj",
         "projectName": "TaskManagement.Tests",
-        "projectPath": "/Users/besaalija/Desktop/SOA/TaskManagement/TaskManagement.Tests/TaskManagement.Tests.csproj",
+        "projectPath": "/Users/besaalija/Desktop/SOA/repo/myapp/taskManagement/TaskManagement.Tests/TaskManagement.Tests.csproj",
         "packagesPath": "/Users/besaalija/.nuget/packages/",
-        "outputPath": "/Users/besaalija/Desktop/SOA/TaskManagement/TaskManagement.Tests/obj/",
+        "outputPath": "/Users/besaalija/Desktop/SOA/repo/myapp/taskManagement/TaskManagement.Tests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/besaalija/.nuget/NuGet/NuGet.Config"
@@ -27,8 +27,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/besaalija/Desktop/SOA/TaskManagement/TaskManagement/TaskManagement.csproj": {
-                "projectPath": "/Users/besaalija/Desktop/SOA/TaskManagement/TaskManagement/TaskManagement.csproj"
+              "/Users/besaalija/Desktop/SOA/repo/myapp/taskManagement/TaskManagement/TaskManagement.csproj": {
+                "projectPath": "/Users/besaalija/Desktop/SOA/repo/myapp/taskManagement/TaskManagement/TaskManagement.csproj"
               }
             }
           }
@@ -88,14 +88,14 @@
         }
       }
     },
-    "/Users/besaalija/Desktop/SOA/TaskManagement/TaskManagement/TaskManagement.csproj": {
+    "/Users/besaalija/Desktop/SOA/repo/myapp/taskManagement/TaskManagement/TaskManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/besaalija/Desktop/SOA/TaskManagement/TaskManagement/TaskManagement.csproj",
+        "projectUniqueName": "/Users/besaalija/Desktop/SOA/repo/myapp/taskManagement/TaskManagement/TaskManagement.csproj",
         "projectName": "TaskManagement",
-        "projectPath": "/Users/besaalija/Desktop/SOA/TaskManagement/TaskManagement/TaskManagement.csproj",
+        "projectPath": "/Users/besaalija/Desktop/SOA/repo/myapp/taskManagement/TaskManagement/TaskManagement.csproj",
         "packagesPath": "/Users/besaalija/.nuget/packages/",
-        "outputPath": "/Users/besaalija/Desktop/SOA/TaskManagement/TaskManagement/obj/",
+        "outputPath": "/Users/besaalija/Desktop/SOA/repo/myapp/taskManagement/TaskManagement/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/besaalija/.nuget/NuGet/NuGet.Config"
@@ -143,6 +143,10 @@
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Caching.Memory": {
               "target": "Package",
               "version": "[7.0.0, )"
             },

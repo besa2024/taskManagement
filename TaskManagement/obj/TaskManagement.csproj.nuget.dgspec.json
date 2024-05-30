@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/besaalija/Desktop/SOA/TaskManagement/TaskManagement/TaskManagement.csproj": {}
+    "/Users/besaalija/Desktop/SOA/repo/myapp/taskManagement/TaskManagement/TaskManagement.csproj": {}
   },
   "projects": {
-    "/Users/besaalija/Desktop/SOA/TaskManagement/TaskManagement/TaskManagement.csproj": {
+    "/Users/besaalija/Desktop/SOA/repo/myapp/taskManagement/TaskManagement/TaskManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/besaalija/Desktop/SOA/TaskManagement/TaskManagement/TaskManagement.csproj",
+        "projectUniqueName": "/Users/besaalija/Desktop/SOA/repo/myapp/taskManagement/TaskManagement/TaskManagement.csproj",
         "projectName": "TaskManagement",
-        "projectPath": "/Users/besaalija/Desktop/SOA/TaskManagement/TaskManagement/TaskManagement.csproj",
+        "projectPath": "/Users/besaalija/Desktop/SOA/repo/myapp/taskManagement/TaskManagement/TaskManagement.csproj",
         "packagesPath": "/Users/besaalija/.nuget/packages/",
-        "outputPath": "/Users/besaalija/Desktop/SOA/TaskManagement/TaskManagement/obj/",
+        "outputPath": "/Users/besaalija/Desktop/SOA/repo/myapp/taskManagement/TaskManagement/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/besaalija/.nuget/NuGet/NuGet.Config"

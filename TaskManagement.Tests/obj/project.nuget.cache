@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ccgkrSdqFBeuiCX281+g8z4q7T31pN6rfoMNqT+iGGYeuS6I0mKqyWMLiAGmKQrUwDaUWVj4Lzd6DGUqzQTj7w==",
+  "dgSpecHash": "tMiEz1NA6mqeeCFD7gdb0f95ZKXqSWxxri+EMDtuf3qS2KhxPEBnzGR7eif+oXpfBnVXixHxK3yU/QpCzKqUpw==",
   "success": true,
-  "projectFilePath": "/Users/besaalija/Desktop/SOA/TaskManagement/TaskManagement.Tests/TaskManagement.Tests.csproj",
+  "projectFilePath": "/Users/besaalija/Desktop/SOA/repo/myapp/taskManagement/TaskManagement.Tests/TaskManagement.Tests.csproj",
   "expectedPackageFiles": [
     "/Users/besaalija/.nuget/packages/automapper/13.0.1/automapper.13.0.1.nupkg.sha512",
     "/Users/besaalija/.nuget/packages/castle.core/5.1.1/castle.core.5.1.1.nupkg.sha512",
